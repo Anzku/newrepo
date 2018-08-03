@@ -1,2 +1,8 @@
 1 com
 2 com
+modified from github
+
+
+modification after (accept both)
+
+modif. add. commit.
