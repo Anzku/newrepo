@@ -2,6 +2,7 @@
 2 com
 modified from github
 
+<<<<<<< HEAD
 
 modification after (accept both)
 
@@ -10,3 +11,6 @@ modif. add. commit.
 add
 
 after tag
+=======
+new modification
+>>>>>>> 91c99b98c1d2ff2c732133df2ce8a82ed65c9f62
